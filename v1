@@ -1,0 +1,1 @@
+create table cicd (id int(10)  NOT NULL AUTO_INCREMENT,project_name varchar(100),memo varchar(50),primary key (id));
